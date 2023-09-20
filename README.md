@@ -4,9 +4,10 @@ GamesDB is a project to look up games. The idea was inspired by IMDB, a place wh
 
 ## Features
 
-- [] Search bar
+- [ ] Integrate API for all relevant data
+- [ ] Fully functional search bar
 - [x] Dark and Light mode
-- [] Browse by genre
+- [ ] Browse by genre
 
 ## Technologies used
 
